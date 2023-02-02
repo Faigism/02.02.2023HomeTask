@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\wefqe\wefqe\bin\Debug\netcoreapp3.1\wefqe.exe
+C:\Users\faiqi\source\wefqe\wefqe\bin\Debug\netcoreapp3.1\wefqe.deps.json
+C:\Users\faiqi\source\wefqe\wefqe\bin\Debug\netcoreapp3.1\wefqe.runtimeconfig.json
+C:\Users\faiqi\source\wefqe\wefqe\bin\Debug\netcoreapp3.1\wefqe.runtimeconfig.dev.json
+C:\Users\faiqi\source\wefqe\wefqe\bin\Debug\netcoreapp3.1\wefqe.dll
+C:\Users\faiqi\source\wefqe\wefqe\bin\Debug\netcoreapp3.1\wefqe.pdb
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.AssemblyInfo.cs
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.dll
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.pdb
+C:\Users\faiqi\source\wefqe\wefqe\obj\Debug\netcoreapp3.1\wefqe.genruntimeconfig.cache

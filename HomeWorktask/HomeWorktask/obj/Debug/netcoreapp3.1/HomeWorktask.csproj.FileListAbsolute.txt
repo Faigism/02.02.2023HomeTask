@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\bin\Debug\netcoreapp3.1\HomeWorktask.exe
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\bin\Debug\netcoreapp3.1\HomeWorktask.deps.json
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\bin\Debug\netcoreapp3.1\HomeWorktask.runtimeconfig.json
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\bin\Debug\netcoreapp3.1\HomeWorktask.runtimeconfig.dev.json
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\bin\Debug\netcoreapp3.1\HomeWorktask.dll
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\bin\Debug\netcoreapp3.1\HomeWorktask.pdb
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.AssemblyInfo.cs
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.dll
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.pdb
+C:\Users\faiqi\source\HomeWorktask\HomeWorktask\obj\Debug\netcoreapp3.1\HomeWorktask.genruntimeconfig.cache
